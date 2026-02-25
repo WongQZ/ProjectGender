@@ -1,2 +1,3 @@
 nltk
-streaml
+streamlit
+joblib
